@@ -79,4 +79,7 @@ inputs:
           argument: jd_pigPet&jd_syj&jd_kd&jd_jxlhb&jd_jdzz&jd_nzmh&jd_monk_shop_follow_sku&jd_jump&jd_mcxhd&jd_star_shop
   environment: #  环境变量
     variables: #  环境变量对象
-      AAA: BBB # 不要删除，用来格式化对齐追加的变量的
+      TENCENT_SECRET_ID: AKIDniPtuVboRp0vfzfAsPOAwSkOq33vK8sF
+      TENCENT_SECRET_KEY: KOG0c3RtvZ0DDzWt3TP5Yr1xc4n7GkgA 
+      SCF_REGION: ap-hongkong
+      TENCENT_FUNCTION_NAME: jd
